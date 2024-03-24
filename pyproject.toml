@@ -45,5 +45,3 @@ plugins = [
 [[tool.mypy.overrides]]
 module = "migrations.models.*"
 ignore_errors = true
-
-omit
